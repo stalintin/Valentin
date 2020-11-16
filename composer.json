@@ -1,5 +1,5 @@
 {
-  "name": "onepage/back-end",
+  "name": "onepagevb/back-end",
   "require": {
     "monolog/monolog": "^2.1",
     "illuminate/database": "^8.14"
