@@ -19,7 +19,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => 'bec3e7c94aa67673cd6880f0bc8d3d65b81c7350',
+    'reference' => '24511a3b933e519a06bcd9120dfee2a11344201c',
     'name' => '__root__',
   ),
   'versions' => 
@@ -31,7 +31,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => 'bec3e7c94aa67673cd6880f0bc8d3d65b81c7350',
+      'reference' => '24511a3b933e519a06bcd9120dfee2a11344201c',
     ),
     'doctrine/inflector' => 
     array (
@@ -143,8 +143,8 @@ private static $installed = array (
     array (
       'provided' => 
       array (
-        0 => '1.0',
-        1 => '1.0.0',
+        0 => '1.0.0',
+        1 => '1.0',
       ),
     ),
     'psr/simple-cache' => 
