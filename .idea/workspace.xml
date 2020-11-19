@@ -1,33 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BranchesTreeState">
-    <expand>
-      <path>
-        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-      </path>
-    </expand>
-    <select />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="44433b84-1648-4fc4-b86e-13ffc605730c" name="Default Changelist" comment="">
+    <list default="true" id="f785f7a4-37d1-4a4c-95aa-99d8de6c2eb4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/onepage.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/onepage.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Back-end.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Backend.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MaxservVars.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pictures/bedroom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pictures/button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pictures/kitchen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pictures/livingroom.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pictures/lorem-logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings">
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.4">
+  <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/composer" />
       <path value="$PROJECT_DIR$/vendor/psr/container" />
@@ -56,8 +63,7 @@
       <path value="$PROJECT_DIR$/vendor/illuminate/support" />
     </include_path>
   </component>
-  <component name="ProjectId" id="1jPP5H1m14oAjq5TqQXSisyWhLT" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1kV3wk3qqKTy4VtTJ58RFpwIfPi" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -65,21 +71,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.path.for.package.eslint" value="project" />
-    <property name="node.js.path.for.package.tslint" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="last_opened_file_path" value="$USER_HOME$/.ssh/id_rsa.ppk" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion.SSH" />
     <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\xampp\htdocs\onepage" />
-    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -90,63 +85,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="44433b84-1648-4fc4-b86e-13ffc605730c" name="Default Changelist" comment="" />
-      <created>1603702568989</created>
+      <changelist id="f785f7a4-37d1-4a4c-95aa-99d8de6c2eb4" name="Default Changelist" comment="" />
+      <created>1605772173163</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1603702568989</updated>
-      <workItem from="1603702570190" duration="1769000" />
-      <workItem from="1603786198364" duration="3621000" />
-      <workItem from="1603873308503" duration="3778000" />
-      <workItem from="1603958415200" duration="4010000" />
-      <workItem from="1604041466725" duration="3578000" />
-      <workItem from="1604300719451" duration="8062000" />
-      <workItem from="1604387983692" duration="7510000" />
-      <workItem from="1604402300186" duration="1264000" />
-      <workItem from="1604405649771" duration="1488000" />
-      <workItem from="1604474436168" duration="5565000" />
-      <workItem from="1604560768563" duration="7150000" />
-      <workItem from="1604651175413" duration="2204000" />
-      <workItem from="1604909954296" duration="3500000" />
-      <workItem from="1605000208468" duration="634000" />
-      <workItem from="1605170115987" duration="548000" />
-      <workItem from="1605183767864" duration="1207000" />
-      <workItem from="1605255604682" duration="3616000" />
-      <workItem from="1605518600170" duration="23000" />
+      <updated>1605772173163</updated>
+      <workItem from="1605772175159" duration="301000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="475" y="75" key="#PHP" timestamp="1603703044864">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="475" y="75" key="#PHP/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1603703044864" />
-    <state x="548" y="187" key="FileChooserDialogImpl" timestamp="1604396643536">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="548" y="187" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1604396643536" />
-    <state x="277" y="77" key="SettingsEditor" timestamp="1604403095446">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="277" y="77" key="SettingsEditor/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1604403095446" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1604488306172">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864/1920.0.1920.1080@0.0.1536.864" timestamp="1604488306172" />
   </component>
 </project>
